@@ -46,15 +46,15 @@
 
 ### 🔸I2C Block Diagram
 
-![image.png](attachment:223c44e5-b2bf-47b8-9e59-8d31da9acabb:image.png)
+![image.png](https://github.com/seonghunppark/Project_SPI_I2C_UPCOUNTER_LED_Control/blob/d52a835a1a3f1844b21b4f58b131a142a4d4627e/Block_Diagram/i2c_block_diagram.png)
 
 ### 🔸SPI Block Diagram
 
-![image.png](attachment:a3d62d3b-dfce-4f12-a59c-285b31ab0af9:image.png)
+![image.png](https://github.com/seonghunppark/Project_SPI_I2C_UPCOUNTER_LED_Control/blob/d52a835a1a3f1844b21b4f58b131a142a4d4627e/Block_Diagram/spi_block_diagram.png)
 
 ### 🔸UVM Hierachy Structure
 
-![image.png](attachment:105bf505-f87b-4805-a9f5-251dc38dcded:image.png)
+![image.png](https://github.com/seonghunppark/Project_SPI_I2C_UPCOUNTER_LED_Control/blob/d52a835a1a3f1844b21b4f58b131a142a4d4627e/Block_Diagram/uvm_hierarchy_structure.png)
 
 ## 🔹프로젝트 성과
 
